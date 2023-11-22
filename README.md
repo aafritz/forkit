@@ -25,7 +25,7 @@ $ pip3 install -r requirements.txt
 ```
 
 ### R installation example
-I don't know
+Let's write the R version!
 
 ## Usage 
 How do you use your tool? You could present a few use cases of running your tool from the CLI.
