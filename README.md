@@ -1,8 +1,7 @@
 ## Fork it
 
 ## Tool Name 
-Very nice tools.
-Fork it
+Fork it. LetsForkedUp
 ## License
 Free for academia, for commercial use, you gotta get a licence
 
